@@ -20,12 +20,12 @@
   },
   "homepage": "https://github.com/DanielBorges91/api-solid-2023-03-12#readme",
   "devDependencies": {
-    "@types/node": "^18.15.0",
-    "tsup": "^6.6.3",
-    "tsx": "^3.12.4",
-    "typescript": "^4.9.5"
+    "@types/node": "18.15.2",
+    "tsup": "6.6.3",
+    "tsx": "3.12.5",
+    "typescript": "4.9.5"
   },
   "dependencies": {
-    "fastify": "^4.14.1"
+    "fastify": "4.14.1"
   }
 }
